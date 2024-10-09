@@ -4,7 +4,10 @@
     {
       "src": "wsgi.py",
       "use": "@vercel/python",
-      "config": { "runtime": "python3.9" }
+      "config": { 
+        "runtime": "python3.9",
+        "buildCommand": "./build.sh"
+      }
     }
   ],
   "routes": [

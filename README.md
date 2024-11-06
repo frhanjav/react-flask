@@ -19,7 +19,7 @@ Live: [https://github.com/frhanjav](https://react-flask-jc5o.onrender.com)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/burakorkmez/react-python-tutorial
+git clone https://github.com/frhanjav/react-flask.git
 ```
 
 2. Navigate to the project directory:

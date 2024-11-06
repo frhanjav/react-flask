@@ -25,7 +25,7 @@ git clone https://github.com/frhanjav/react-flask.git
 2. Navigate to the project directory:
 
 ```bash
-cd react-python-tutorial
+cd react-flask
 ```
 
 3. Navigate to the backend directory:
